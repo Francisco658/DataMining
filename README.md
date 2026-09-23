@@ -1,13 +1,20 @@
-# DataMining - LawTalk Project
+# Data Mining - Practical Project
+
+Practical Project developed as part of the Data Mining course unit.
+
+**<ins> Team Members </ins>**
+* Afonso Bessa - pg53597
+* Eduardo Henriques - pg54780
+* Francisco Claudino - pg50380
+* Mariana Marques - pg50633
+
+**Masters in Informatics Engineering**
+
+**University of Minho (2023/2024)**
+
+# Data Mining - LawTalk Project
 
 The LawTalk Project consists of developing a chatbot using Ollama LLM's and the integration of RAG to create a chatbot that analyses and answers practical cases regarding crimes utilizing the Portuguese Penal Code and the Portuguese Processual Penal Code.
-
-## Team Members
-
-- **PG50380** - Francisco Claudino
-- **PG50633** - Mariana Marques
-- **PG53597** - Afonso Bessa
-- **PG54780** - Eduardo Henriques
 
 ## Index of Contents:
 
